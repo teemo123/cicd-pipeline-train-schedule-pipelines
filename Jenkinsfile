@@ -8,6 +8,6 @@ pipeline {
         archiveArtifacts artifacts: 'dist/trainSchedule.zip'
       }
   }
-
-
+  } 
 }
+
